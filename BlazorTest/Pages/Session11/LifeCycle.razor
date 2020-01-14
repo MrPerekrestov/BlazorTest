@@ -1,0 +1,21 @@
+﻿@page "/Session11/LifeCycle"
+<h1>Hello</h1>
+@code{
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        Console.WriteLine("Component initialized");
+    }
+
+    protected override void OnParametersSet()
+    {
+        base.OnParametersSet();
+        Console.WriteLine("Parameter was set");
+    }
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        base.OnAfterRender(firstRender);
+        Console.WriteLine("After render");
+    }
+}
