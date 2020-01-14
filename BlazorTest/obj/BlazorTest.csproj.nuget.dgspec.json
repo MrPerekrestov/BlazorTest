@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyProgramms\\BlazorTest\\BlazorTest\\BlazorTest.csproj": {}
+    "F:\\MyPrograms\\BlazorTest\\BlazorTest\\BlazorTest.csproj": {}
   },
   "projects": {
-    "D:\\MyProgramms\\BlazorTest\\BlazorTest\\BlazorTest.csproj": {
+    "F:\\MyPrograms\\BlazorTest\\BlazorTest\\BlazorTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProgramms\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
+        "projectUniqueName": "F:\\MyPrograms\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
         "projectName": "BlazorTest",
-        "projectPath": "D:\\MyProgramms\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
-        "packagesPath": "C:\\Users\\Perekrestov\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProgramms\\BlazorTest\\BlazorTest\\obj\\",
+        "projectPath": "F:\\MyPrograms\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
+        "packagesPath": "C:\\Users\\Roman Perekrestov\\.nuget\\packages\\",
+        "outputPath": "F:\\MyPrograms\\BlazorTest\\BlazorTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Perekrestov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Roman Perekrestov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
